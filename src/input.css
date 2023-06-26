@@ -45,6 +45,30 @@ input::placeholder {
 }
 
 
+@media only screen and (max-width: 428px) {
+
+    .absolute-1 {
+        left: 370px;
+        top: 630px;
+    }
+    
+}
+
+
+@media only screen and (min-width: 1440px) {
+
+    .absolute-1 {
+        left:1300px;
+        top: 250px;
+    }
+
+    .absolute-2 {
+        left: 600px;
+
+    }
+    
+}
+
 
 
 
